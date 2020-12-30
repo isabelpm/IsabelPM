@@ -19,7 +19,7 @@ Hola, Soy Isabel actualmente soy Junior Front-End developer & fotógrafa. Me enc
 <br>
 <br>
 <hr>
-### Contácteme:
+### Web:
 <br>
 www.isabelpuigmarin.com
 <br/>
