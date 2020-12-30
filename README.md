@@ -19,14 +19,9 @@ Hola, Soy Isabel actualmente soy Junior Front-End developer & fotógrafa. Me enc
 <br>
 <br>
 <hr>
-### Contáctame:
+### Contácteme:
 <br>
 www.isabelpuigmarin.com
-<br>
-[<img align="left" alt="ivettepa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/isabelpuigmarin/
-
 <br/>
 <hr>
 <h3>💻 Aprendizaje activo 🤝 Trabajo en Equipo;</h3>
