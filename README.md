@@ -1,7 +1,7 @@
 # isabelpm /README.md
 <hr>
 Hola,
-<br>Soy Isabel actualmente soy Junior Front-End developer & fotógrafa. Me encanta el mundo digital, crear sitios webs y la fotografía.
+<br>Me llamo Isabel y soy Junior Front-End developer & fotógrafa. Me encanta el mundo digital, crear sitios webs y la fotografía.
 
 ### Herramientas y lenguajes:
 
