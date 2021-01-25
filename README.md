@@ -1,6 +1,6 @@
 # ¡Hola!
 
-![Alt text](IsabelPM/img/banner_presentacion "Hola")
+![banner_presentacion](https://user-images.githubusercontent.com/67895734/105754689-a8d9d980-5f4a-11eb-8083-847611423664.jpg)
 
 _Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End developer** en la IT Academy. Me encanta el mundo digital, crear sitios webs y la fotografía._
 
