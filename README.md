@@ -1,4 +1,5 @@
 # ¡Hola!
+![](/banner/presentacion.jpg)
 
 _Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End developer** en la IT Academy. Me encanta el mundo digital, crear sitios webs y la fotografía._
 
@@ -17,17 +18,19 @@ _Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End d
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br/>
 
-### Autores ✒️
 
-*💻* - [Portfolio](https://www.isabelpuigmarin.com)
+### Contactar conmigo ✒️
 
 [<img align="left" alt="isabelpm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://www.linkedin.com/in/isabelpuigmarin/
 
-<br/>
+* **Portfolio** - *💻* - www.isabelpuigmarin.com
 
-### 💻 Aprendizaje activo  
+
+
+<br/>
 ### 🤝 Trabajo en Equipo
+### 💻 Aprendizaje activo  
+
 
 
