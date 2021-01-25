@@ -15,13 +15,13 @@ _Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End d
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
+<br/>
 <hr>
 ## Autores ✒️
-* Te invito a que visites mi web para ver los trabajos realizados
+
 * **Portfolio** - *web* - [web](https://www.isabelpuigmarin.com)
 
-
+[<img align="left" alt="isabelpm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [linkedin]: https://www.linkedin.com/in/isabelpuigmarin/
 
 ### 💻 Aprendizaje activo  
 ### 🤝 Trabajo en Equipo
