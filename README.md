@@ -1,7 +1,8 @@
 ![isabel_pm](https://user-images.githubusercontent.com/67895734/105756739-4df5b180-5f4d-11eb-8c60-a89a1d29fa4b.jpg)
 
 # ¡Hola!
-_Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End developer** en la IT Academy. Me encanta el mundo digital, crear sitios webs y la fotografía._
+```Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End developer** en la IT Academy.```
+```Me encanta el mundo digital, crear sitios webs y la fotografía.```
 
 ## Sobre mí ✒️
 
