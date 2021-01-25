@@ -5,7 +5,7 @@ _Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End d
 
 ## Sobre mí ✒️
 
-**Portfolio** - 💻 www.isabelpuigmarin.com
+💻 **Portfolio** - www.isabelpuigmarin.com
 <br/>
 
 ## Herramientas y lenguajes 🔧:
