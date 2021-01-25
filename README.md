@@ -2,7 +2,7 @@
 
 # ¡Hola!
 Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End developer** en la IT Academy.
-Me encanta el mundo digital, crear sitios webs y la fotografía.
+<br>Me encanta el mundo digital, crear sitios webs y la fotografía.
 
 ## Sobre mí ✒️
 
