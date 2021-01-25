@@ -19,7 +19,7 @@ _Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando **front-End d
 
 ### Autores ✒️
 
-*💻* - [web](https://www.isabelpuigmarin.com)
+*💻* - [Portfolio](https://www.isabelpuigmarin.com)
 
 [<img align="left" alt="isabelpm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
