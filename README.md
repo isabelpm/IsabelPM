@@ -1,8 +1,8 @@
 # ¡Hola!
 
-```Me llamo Isabel y soy Junior Front-End developer & fotógrafa. Me encanta el mundo digital, crear sitios webs y la fotografía.```
+```Me llamo Isabel soy **fotógrafa** y actualmente estoy estudiando Front-End developer en la IT Academy. Me encanta el mundo digital, crear sitios webs y la fotografía.```
 
-### Herramientas y lenguajes:
+### Herramientas y lenguajes 🔧:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -16,13 +16,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<br>
-<br>
-<hr>
-<h3>Web:</h3>
+
+# Web
 www.isabelpuigmarin.com
-<br/>
-<hr>
-<h3>💻 Aprendizaje activo 🤝 Trabajo en Equipo;</h3>
+
+
+### 💻 Aprendizaje activo  
+### 🤝 Trabajo en Equipo
 
 
