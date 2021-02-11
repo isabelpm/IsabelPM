@@ -1,6 +1,6 @@
 ![isabel_pm](https://user-images.githubusercontent.com/67895734/105756739-4df5b180-5f4d-11eb-8c60-a89a1d29fa4b.jpg)
 
-# ¡Hola!
+# ¡Hola!  :wave:
 
 Soy **fotógrafa**, videografa y actualmente estoy estudiando **front-End developer** en la IT Academy de Barcelona Activa.
 Estoy Interesada en mejorar la presencia digital de empresas y entidades por eso me he introducido en el sector TIC. 
@@ -10,19 +10,17 @@ Me encanta aprender y mejorar continuamente, y por eso siempre estoy buscando nu
 Desde hace más de 5 años **soy co-creadora y responsable del área audiovisual** de la Asociación Creatibio sobre la divulgación de la biodiversidad de Cataluña.
 
 
-## Sobre mí ✒️
+## Sobre mí  ✒️
 
 🤝 Trabajo en Equipo  :bulb: Resolutiva :loudspeaker: Comunicativa  💻 Aprendizaje activo 
 
 
-## Contactar :e-mail:
+## Contactar  :e-mail:
 
-💻 [Portafolio](www.isabelpuigmarin.com)
-<br>
-:page_facing_up: [Linkedin](https://www.linkedin.com/in/isabelpuigmarin/)
+### [Portfolio ](https://www.isabelpuigmarin.com) 💻
+### [Linkedin ](https://www.linkedin.com/in/isabelpuigmarin/) :page_facing_up:
 
-
-## Herramientas y lenguajes 🔧
+## Herramientas y lenguajes  🔧
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -35,9 +33,3 @@ Desde hace más de 5 años **soy co-creadora y responsable del área audiovisual
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<br/>
-<br/>
-
-
-
-
