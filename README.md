@@ -1,18 +1,18 @@
 
 ![isabel_pm](https://user-images.githubusercontent.com/67895734/105756739-4df5b180-5f4d-11eb-8c60-a89a1d29fa4b.jpg)
-# ¡Hola!  :wave:
 
-Soy **fotógrafa**, videografa y actualmente estoy estudiando **front-End developer** en la IT Academy de Barcelona Activa.
-Estoy Interesada en mejorar la presencia digital de empresas y entidades por eso me he introducido en el sector TIC. 
+## Sobre mí  ✒️ 
 
-Me encanta aprender y mejorar continuamente, y por eso siempre estoy buscando nuevas habilidades y herramientas para reinventarme.
+### ¡Hola!  :wave:
 
-Desde hace más de 5 años **soy co-creadora y responsable del área audiovisual** de la Asociación Creatibio sobre la divulgación de la biodiversidad de Cataluña.
+Junior Front-end React apasionada del diseño y la fotografía.
+
+Me encanta crecer profesional y personalmente y por esto me estoy formando en programación Javascript y React en la IT Academy de Barcelona Activa.
+
+Trabajo para mejorar continuamente y aprender nuevas habilidades y disfruto probando las nuevas tecnologías que aparecen en el mundo frontend.
 
 
-## Sobre mí  ✒️
-
-🤝 Trabajo en Equipo  :bulb: Resolutiva :loudspeaker: Comunicativa  💻 Aprendizaje activo 
+Trabajo en Equipo | Resolutiva | Comunicativa | Aprendizaje activo | diciplinada | autodidacta  creativa | comprometida.
 
 
 ## Contactar  :e-mail:
