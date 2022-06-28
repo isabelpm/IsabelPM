@@ -5,7 +5,7 @@
 
 ### ¡Hola!  :wave:
 
-Junior Front-end React apasionada del diseño y la fotografía.
+UX/UI Designer, fotógrafa con nociones en desarrollo.
 
 Me encanta crecer profesional y personalmente y por esto me estoy formando en programación Javascript y React en la IT Academy de Barcelona Activa.
 
