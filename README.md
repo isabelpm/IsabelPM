@@ -7,12 +7,10 @@
 
 UX/UI Designer, fotógrafa con nociones en desarrollo.
 
-Me encanta crecer profesional y personalmente y por esto me estoy formando en programación Javascript y React en la IT Academy de Barcelona Activa.
-
-Trabajo para mejorar continuamente y aprender nuevas habilidades y disfruto probando las nuevas tecnologías que aparecen en el mundo frontend.
+¿Cómo definirme en dos palabras? Soy **proactiva y resiliente**. Curiosa por naturaleza, siempre estoy en constante formación y al día de aquello en lo que me apasiona.
 
 
-Trabajo en Equipo | Resolutiva | Comunicativa | Aprendizaje activo | diciplinada | autodidacta  creativa | comprometida.
+Trabajo en Equipo | Resolutiva | Comunicativa | Aprendizaje activo | diciplinada | autodidacta | creativa | comprometida.
 
 
 ## Contactar  :e-mail:
